@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Arrays and methods in Java.iml" filepath="$PROJECT_DIR$/.idea/Arrays and methods in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chuyen-doi-nhiet-do/chuyen-doi-nhiet-do.iml" filepath="$PROJECT_DIR$/chuyen-doi-nhiet-do/chuyen-doi-nhiet-do.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao-nguoc-cac-phan-tu/dao-nguoc-cac-phan-tu.iml" filepath="$PROJECT_DIR$/dao-nguoc-cac-phan-tu/dao-nguoc-cac-phan-tu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dem-so-ky-tu/dem-so-ky-tu.iml" filepath="$PROJECT_DIR$/dem-so-ky-tu/dem-so-ky-tu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dem-so-luong-sinh-vien-do/dem-so-luong-sinh-vien-do.iml" filepath="$PROJECT_DIR$/dem-so-luong-sinh-vien-do/dem-so-luong-sinh-vien-do.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gop-mang/gop-mang.iml" filepath="$PROJECT_DIR$/gop-mang/gop-mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/them-phan-tu/them-phan-tu.iml" filepath="$PROJECT_DIR$/them-phan-tu/them-phan-tu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tim-gia-tri-lon-nhat/tim-gia-tri-lon-nhat.iml" filepath="$PROJECT_DIR$/tim-gia-tri-lon-nhat/tim-gia-tri-lon-nhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tim-gia-tri-nho-nhat/tim-gia-tri-nho-nhat.iml" filepath="$PROJECT_DIR$/tim-gia-tri-nho-nhat/tim-gia-tri-nho-nhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tim-gia-tri-trong-mang/tim-gia-tri-trong-mang.iml" filepath="$PROJECT_DIR$/tim-gia-tri-trong-mang/tim-gia-tri-trong-mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tim-phan-tu-lon-nhat-trong-mang-hai-chieu/tim-phan-tu-lon-nhat-trong-mang-hai-chieu.iml" filepath="$PROJECT_DIR$/tim-phan-tu-lon-nhat-trong-mang-hai-chieu/tim-phan-tu-lon-nhat-trong-mang-hai-chieu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinh-cot/tinh-cot.iml" filepath="$PROJECT_DIR$/tinh-cot/tinh-cot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinh-tong-duong-cheo-chinh/tinh-tong-duong-cheo-chinh.iml" filepath="$PROJECT_DIR$/tinh-tong-duong-cheo-chinh/tinh-tong-duong-cheo-chinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xoa-phan-tu-khoi-mang/xoa-phan-tu-khoi-mang.iml" filepath="$PROJECT_DIR$/xoa-phan-tu-khoi-mang/xoa-phan-tu-khoi-mang.iml" />
+    </modules>
+  </component>
+</project>

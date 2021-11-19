@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="debde83c-b68c-4d87-bbc6-9d1b714fbd69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Abstract Class and Interface/Lop-animal-interface-edible/src/animal/AbstractAndInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Abstract Class and Interface/Lop-animal-interface-edible/src/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Abstract Class and Interface/Lop-animal-interface-edible/src/animal/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Abstract Class and Interface/Lop-animal-interface-edible/src/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Abstract Class and Interface/Lop-animal-interface-edible/src/animal/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Abstract Class and Interface/Lop-animal-interface-edible/src/animal/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Abstract Class and Interface/Lop-animal-interface-edible/src/animal/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Abstract Class and Interface/Lop-animal-interface-edible/src/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Access modifier, static method, static property/ Xay-dung-lop-chi-ghi-trong-Java/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Access modifier, static method, static property/ Xay-dung-lop-chi-ghi-trong-Java/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Access modifier, static method, static property/access-modifier/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Access modifier, static method, static property/access-modifier/src/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Access modifier, static method, static property/car/src/TestStaticProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Access modifier, static method, static property/car/src/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Access modifier, static method, static property/static-method/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Access modifier, static method, static property/static-method/src/TestStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chuyen-doi-nhiet-do/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dao-nguoc-cac-phan-tu/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dem-so-luong-sinh-vien-do/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gop-mang/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../them-phan-tu/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tim-gia-tri-lon-nhat/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tim-gia-tri-nho-nhat/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tim-gia-tri-trong-mang/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xoa-phan-tu-khoi-mang/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes and Objects in Java/lop-fan/src/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes and Objects in Java/lop-fan/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes and Objects in Java/lop-hinh-chu-nhat/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes and Objects in Java/lop-hinh-chu-nhat/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes and Objects in Java/lop-stopwatch/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes and Objects in Java/lop-stopwatch/src/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes and Objects in Java/phuong-trinh-bac-hai/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Classes and Objects in Java/phuong-trinh-bac-hai/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/doi-tuong-hinh-hoc/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/doi-tuong-hinh-hoc/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/doi-tuong-hinh-hoc/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/doi-tuong-hinh-hoc/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/doi-tuong-hinh-hoc/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/lop-circle-lop-cylinder/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/lop-circle-lop-cylinder/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Inheritance/lop-circle-lop-cylinder/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction to Java/SystemTime/src/SystemTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction to Java/body-mass-index-BMI/src/com/codegym/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction to Java/chuyen-doi-tien-te/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction to Java/day-of-month/src/com/codegym/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction to Java/doc-so-thanh-chu/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction to Java/hien-thi-loi-chao/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction to Java/leap-year-calculator/src/com/codegym/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction to Java/linear-equation-resolver/src/com/codegym/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction to Java/operator-expression/src/com/codegym/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Introduction to Java/variable-dataType/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/BOOK-MANAGEMENT-SYSTEM/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/BOOK-MANAGEMENT-SYSTEM/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/bai1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/bai2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/bai3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/bai4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/bai5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/bai6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/oop/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/oop/src/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/quan-ly-nhan-vien2/src/CongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/quan-ly-nhan-vien2/src/CreateCongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/quan-ly-nhan-vien2/src/CreateKySu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/quan-ly-nhan-vien2/src/DeteleCongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/quan-ly-nhan-vien2/src/DeteleKySu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/quan-ly-nhan-vien2/src/KySu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../homework1/quan-ly-nhan-vien2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../loop/hien-thi-20-so-nguyen-to/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../loop/hien-thi-cac-loai-hinh/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../loop/hien-thi-so-nguyen-to/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../baitapthem/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../baitapthem/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cautrucDK2/TH1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../cautrucDK2/TH2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flappy_bird/picture/base1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flappy_bird/picture/bird1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flappy_bird/picture/pipe1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../flappy_bird/picture/pipe2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham1/baitap-lamthem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham1/chuyendoinhietdo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham1/nguyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham1/tao&amp;goiham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham1/thamchieu-thamtri.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham1/timgiatrinhonhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham01_bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham01_bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham01_bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham01_bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham01_bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham02_bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham02_bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham02_bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham02_bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham02_bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham02_bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham02_bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/LTtao&amp;sudungham02_bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/chuyendoifeet&amp;meters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/ktsonguyento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ham2/quanlysanpham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhdt2/adam&amp;eva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhdt2/congtac&amp;bongden.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhdt2/denpin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhdt2/dichuyendoituong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhdt2/meo_bat_chuot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhhdt1/Funny_circles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhhdt1/XDlopDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhhdt1/XDlop_hinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhhdt1/motaHCN.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhhdt1/mota_dienthoai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../laptrinhhdt1/temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang1/TH-daonguoccacphantu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang1/TH-tao&amp;thaotacvoimang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang1/TH-timgiatri.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang1/TH-timgiatrilonnhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang1/carosimple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang01_bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang01_bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang01_bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang01_bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang01_bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang01_bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang01_bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang01_bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang02_bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang02_bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang02_bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang02_bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang02_bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/LTmang02_bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/Ltmang01_bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/SDhamcosan--bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/SDhamcosan--bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/SDhamcosan--bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mang2/Tictactoe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../minitest/cau1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../minitest2/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../minitest2/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../minitest2/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../minitest2/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../minitest3/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../minitest3/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../minitest3/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../minitest3/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../minitest3/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../thithu/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../thithu/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../thithu/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../thithu/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap/TH1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap/TH2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap/TH3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap/TH4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-LT_vonglap01--bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-LT_vonglap01--bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-LT_vonglap01--bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-LT_vonglap01--bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-LT_vonglap01--bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-LT_vonglap01--bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-LT_vonglap01--bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-LT_vonglap01-bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-LT_vonglap02-bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-LT_vonglap02-bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-VL_vonglap02-bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT-VL_vonglap02-bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/BT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vonglap2/hienthisonguyento.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="20d7KWppojQNuXcvrD37FNJsqP7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dem-so-luong-sinh-vien-do" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="tim-phan-tu-lon-nhat-trong-mang-hai-chieu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="debde83c-b68c-4d87-bbc6-9d1b714fbd69" name="Changes" comment="" />
+      <created>1636362549045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636362549045</updated>
+      <workItem from="1636362550436" duration="18000" />
+      <workItem from="1636365306813" duration="1995000" />
+      <workItem from="1636384617209" duration="1904000" />
+      <workItem from="1636421166077" duration="659000" />
+      <workItem from="1636888721673" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
